@@ -1,0 +1,2 @@
+openapi-python-client # from https://github.com/openapi-generators/openapi-python-client, really love this tool!
+pytest
